@@ -313,7 +313,7 @@ Marks are combined (Internal /30 + Practical /20 + Semester /50 = /100) and grad
 
 ## 👨‍💻 Author
 
-**Praneet**
+**Mansi**
 
 Computer Science Student
 
