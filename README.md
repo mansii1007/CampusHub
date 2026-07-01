@@ -315,7 +315,7 @@ Marks are combined (Internal /30 + Practical /20 + Semester /50 = /100) and grad
 
 **Mansi**
 
-Computer Science Student
+Computer Engineering Student
 
 ---
 
